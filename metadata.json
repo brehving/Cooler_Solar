@@ -1,0 +1,6 @@
+{
+  "name": "Solar Direct Mode Sizing Calculator for DC Air Coolers",
+  "description": "An interactive sizing and simulation calculator for direct-drive DC evaporative coolers powered by solar panels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
